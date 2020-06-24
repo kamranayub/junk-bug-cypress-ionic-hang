@@ -1,1 +1,4 @@
-{}
+{
+  "baseUrl": "https://ionic-react-demo.stackblitz.io",
+  "experimentalShadowDomSupport": true
+}
